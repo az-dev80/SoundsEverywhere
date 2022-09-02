@@ -1,0 +1,6 @@
+framework module Pods_SoundsEverywhere {
+  umbrella header "Pods-SoundsEverywhere-umbrella.h"
+
+  export *
+  module * { export * }
+}
